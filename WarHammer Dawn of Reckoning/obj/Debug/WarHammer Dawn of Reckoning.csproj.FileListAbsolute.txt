@@ -1,0 +1,7 @@
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\bin\Debug\WarHammer Dawn of Reckoning.exe.config
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\bin\Debug\WarHammer Dawn of Reckoning.exe
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\bin\Debug\WarHammer Dawn of Reckoning.pdb
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\obj\Debug\WarHammer Dawn of Reckoning.csproj.AssemblyReference.cache
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\obj\Debug\WarHammer Dawn of Reckoning.csproj.CoreCompileInputs.cache
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\obj\Debug\WarHammer Dawn of Reckoning.exe
+C:\Users\thabi\source\repos\WarHammer Dawn of Reckoning\WarHammer Dawn of Reckoning\obj\Debug\WarHammer Dawn of Reckoning.pdb
